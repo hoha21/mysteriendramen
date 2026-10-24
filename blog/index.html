@@ -20,9 +20,25 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Mysteriendramen — mysteriendramen.ch">
 <meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="Mysteriendramen" href="/feed.xml">
 <link rel="stylesheet" href="/assets/css/style.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Mysteriendramen",
+  "url": "https://mysteriendramen.ch/blog/",
+  "inLanguage": "de-CH",
+  "author": {
+    "@type": "Person",
+    "name": "Alexander G. Höhne",
+    "url": "https://alexanderhoehne.ch/"
+  }
+}
+</script>
 </head>
 <body>
+<a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
 
 <header class="site-header">
   <div class="wrap">
@@ -37,11 +53,13 @@
   </div>
 </header>
 
-<main>
+<main id="inhalt">
   <div class="wrap">
 
     <h1>Blog</h1>
-    <p class="meta">Neue Beiträge erscheinen etwa alle zwei Wochen.</p>
+    <p class="meta">Neue Beiträge erscheinen etwa alle zwei Wochen. Wer sie nicht verpassen möchte, kann den <a href="/feed.xml">RSS-Feed</a> abonnieren.</p>
+
+    <div class="rubriken" id="rubriken" role="group" aria-label="Beiträge nach Rubrik filtern" hidden></div>
 
     <ul class="post-list">
       <!-- Neuester Beitrag zuoberst; beim Hinzufügen eines neuen Posts hier einen <li>-Block einfügen -->
@@ -93,5 +111,6 @@
   </div>
 </footer>
 
+<script src="/assets/js/rubriken.js" defer></script>
 </body>
 </html>

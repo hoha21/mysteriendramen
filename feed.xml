@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mysteriendramen</title>
+    <link>https://mysteriendramen.ch/</link>
+    <description>Forschung, Dramaturgie und Deutungen zu Rudolf Steiners Mysteriendramen</description>
+    <language>de-ch</language>
+    <atom:link href="https://mysteriendramen.ch/feed.xml" rel="self" type="application/rss+xml"/>
+    <!-- Neuester Beitrag zuoberst; bei jedem neuen Beitrag ein <item> oben einfügen -->
+    <item>
+      <title>Erlösung als Weg? Die Mysteriendramen und der Messianismus</title>
+      <link>https://mysteriendramen.ch/blog/2026-11-15-messianismus.html</link>
+      <guid isPermaLink="true">https://mysteriendramen.ch/blog/2026-11-15-messianismus.html</guid>
+      <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Kontexte</category>
+      <description>Messianische Erwartungen um 1900, Theodoras Schauung und der Konflikt um Krishnamurti: wie die Mysteriendramen die Erlöser-Erwartung ihrer Zeit aufnehmen und verwandeln.</description>
+    </item>
+    <item>
+      <title>Steiner unter Zeitgenossen — Schuré, Maeterlinck, Hofmannsthal</title>
+      <link>https://mysteriendramen.ch/blog/2026-11-01-steiner-unter-zeitgenossen.html</link>
+      <guid isPermaLink="true">https://mysteriendramen.ch/blog/2026-11-01-steiner-unter-zeitgenossen.html</guid>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
+      <category>Kontexte</category>
+      <description>Die Mysteriendramen als Theater der literarischen Moderne: Schuré als Vorstufe, Maeterlinck und Hofmannsthal als Nachbarn und Gegenpole.</description>
+    </item>
+    <item>
+      <title>Kein Lesedrama — wie ich zur Bühne der Mysteriendramen kam</title>
+      <link>https://mysteriendramen.ch/blog/2026-10-18-kein-lesedrama.html</link>
+      <guid isPermaLink="true">https://mysteriendramen.ch/blog/2026-10-18-kein-lesedrama.html</guid>
+      <pubDate>Sun, 18 Oct 2026 08:00:00 +0200</pubDate>
+      <category>Dramaturgie</category>
+      <description>Von der ersten Leseerfahrung über die Aufführung am Goetheanum 1989 bis zur dramaturgischen Begleitung: warum das Mysterium der Dramen in der Sprache und im Gespräch liegt.</description>
+    </item>
+    <item>
+      <title>Johannes Thomasius — Porträt einer Entwicklungsfigur</title>
+      <link>https://mysteriendramen.ch/blog/2026-10-04-johannes-thomasius.html</link>
+      <guid isPermaLink="true">https://mysteriendramen.ch/blog/2026-10-04-johannes-thomasius.html</guid>
+      <pubDate>Sun, 04 Oct 2026 08:00:00 +0200</pubDate>
+      <category>Figuren</category>
+      <description>Vom Maler, der Maria folgt, bis zur Selbsterkenntnis vor dem Hüter der Schwelle: ein Porträt der zentralen Entwicklungsfigur der vier Dramen.</description>
+    </item>
+    <item>
+      <title>Die Spiegelmetaphorik in den Mysteriendramen</title>
+      <link>https://mysteriendramen.ch/blog/2026-09-20-spiegelmetaphorik.html</link>
+      <guid isPermaLink="true">https://mysteriendramen.ch/blog/2026-09-20-spiegelmetaphorik.html</guid>
+      <pubDate>Sun, 20 Sep 2026 08:00:00 +0200</pubDate>
+      <category>Aspekte</category>
+      <description>Warum die Dramen ihre Figuren immer wieder sich selbst begegnen lassen — als Doppelgänger, als früheres Leben, als höheres Selbst.</description>
+    </item>
+    <item>
+      <title>Die vier Dramen im Überblick</title>
+      <link>https://mysteriendramen.ch/blog/2026-09-06-vier-dramen-ueberblick.html</link>
+      <guid isPermaLink="true">https://mysteriendramen.ch/blog/2026-09-06-vier-dramen-ueberblick.html</guid>
+      <pubDate>Sun, 06 Sep 2026 08:00:00 +0200</pubDate>
+      <category>Allgemeines</category>
+      <description>Ein Einstieg für Neuleser:innen: Titel, Uraufführungen und Handlungskern der vier Mysteriendramen.</description>
+    </item>
+    <item>
+      <title>Neustart: warum diese Seite nach vier Jahren wieder auflebt</title>
+      <link>https://mysteriendramen.ch/blog/2026-08-23-neustart.html</link>
+      <guid isPermaLink="true">https://mysteriendramen.ch/blog/2026-08-23-neustart.html</guid>
+      <pubDate>Sun, 23 Aug 2026 08:00:00 +0200</pubDate>
+      <category>Allgemeines</category>
+      <description>Ein kurzer Rückblick auf die ersten sechs Beiträge von 2022 — und eine Erklärung, warum und wie es jetzt weitergeht.</description>
+    </item>
+  </channel>
+</rss>

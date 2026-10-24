@@ -351,3 +351,45 @@ footer.site-footer .wrap {
 @media (max-width: 22em) {
   .wrap { padding: 0 1rem; }
 }
+
+/* Sprunglink für Tastatur und Screenreader: erst bei Fokus sichtbar */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+}
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+  z-index: 100;
+  padding: 0.5rem 1rem;
+  background: var(--bg-raised);
+  color: var(--ink);
+  border: 2px solid var(--accent);
+  border-radius: 6px;
+  font-family: var(--font-sans);
+  text-decoration: none;
+}
+a:focus-visible, button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* Rubriken-Filter in der Blogübersicht (assets/js/rubriken.js) */
+.rubriken { display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem; margin: 1.25rem 0 1.75rem; }
+.rubriken[hidden] { display: none; }
+.rubriken-label { font-family: var(--font-sans); font-size: 0.82rem; color: var(--ink-soft); margin-right: 0.2rem; }
+.rubrik-chip {
+  font-family: var(--font-sans);
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid var(--rule);
+  background: transparent;
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+.rubrik-chip:hover { border-color: var(--accent-soft); color: var(--ink); }
+.rubrik-chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--bg); }
+.post-list li[hidden] { display: none; }
