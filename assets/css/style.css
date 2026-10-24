@@ -393,3 +393,6 @@ a:focus-visible, button:focus-visible {
 .rubrik-chip:hover { border-color: var(--accent-soft); color: var(--ink); }
 .rubrik-chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--bg); }
 .post-list li[hidden] { display: none; }
+
+/* Autorenzeile unter dem Beitragstitel */
+.byline { margin: -0.4rem 0 1.4rem; }

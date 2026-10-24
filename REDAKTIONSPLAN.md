@@ -1,6 +1,6 @@
 # Redaktionsplan mysteriendramen.ch
 
-Themenvorschläge von Claude, Stand 24.10.2026 – **noch von Alexander zu bestätigen**.
+Themenvorschläge von Claude – **von Alexander am 24.10.2026 bestätigt**. Die geplante Aufgabe «Mysteriendramen: Blog-Entwurf (lokal)» nimmt jeweils den Eintrag des Sonntags.
 Reihenfolge, Titel und Termine können hier jederzeit geändert werden.
 Status: «offen» → «Entwurf liegt vor» (im lokalen Ordner) → «veröffentlicht»; «gestrichen» wird übersprungen.
 
