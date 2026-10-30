@@ -396,3 +396,10 @@ a:focus-visible, button:focus-visible {
 
 /* Autorenzeile unter dem Beitragstitel */
 .byline { margin: -0.4rem 0 1.4rem; }
+
+/* Weiterlesen: verwandte Beiträge am Ende eines Beitrags */
+.weiterlesen { margin: 2.5rem 0 1rem; padding: 1rem 1.25rem; background: var(--bg-raised); border-left: 3px solid var(--accent-soft); border-radius: 4px; }
+.weiterlesen h2 { margin: 0 0 .5rem; font-size: 1.15rem; }
+.weiterlesen ul { margin: 0; padding-left: 1.1rem; }
+.weiterlesen li { margin: .3rem 0; }
+.weiterlesen .meta { font-size: .85em; }

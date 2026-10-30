@@ -27,4 +27,5 @@ Jeder Beitrag erhält genau eine Rubrik (`<span class="tag">`, im JSON-LD als
 
 ## Redaktionsplan
 Themen und Termine: [REDAKTIONSPLAN.md](REDAKTIONSPLAN.md). Beiträge erscheinen
-sonntags alle zwei Wochen, im Wechsel mit karmaforschung.ch.
+in der Regel sonntags alle zwei Wochen, im Wechsel mit karmaforschung.ch;
+zusätzliche Beiträge sind jederzeit möglich.

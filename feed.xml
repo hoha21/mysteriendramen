@@ -8,10 +8,18 @@
     <atom:link href="https://mysteriendramen.ch/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- Wird von tools/sitemap_feed.py erzeugt; nicht von Hand bearbeiten -->
     <item>
+      <title>Erlösung als Weg? Die Mysteriendramen und der Messianismus</title>
+      <link>https://mysteriendramen.ch/blog/2026-10-30-messianismus.html</link>
+      <guid isPermaLink="true">https://mysteriendramen.ch/blog/2026-10-30-messianismus.html</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0100</pubDate>
+      <category>Kontexte</category>
+      <description>Messianische Erwartungen um 1900, Theodoras Schauung und der Konflikt um Krishnamurti: wie die Mysteriendramen die Erlöser-Erwartung ihrer Zeit aufnehmen und verwandeln.</description>
+    </item>
+    <item>
       <title>Steiner unter Zeitgenossen — Schuré, Maeterlinck, Hofmannsthal</title>
       <link>https://mysteriendramen.ch/blog/2026-11-01-steiner-unter-zeitgenossen.html</link>
       <guid isPermaLink="true">https://mysteriendramen.ch/blog/2026-11-01-steiner-unter-zeitgenossen.html</guid>
-      <pubDate>Sun, 01 Nov 2026 08:00:00 +0100</pubDate>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0100</pubDate>
       <category>Kontexte</category>
       <description>Die Mysteriendramen als Theater der literarischen Moderne: Schuré als Vorstufe, Maeterlinck und Hofmannsthal als Nachbarn und Gegenpole.</description>
     </item>
