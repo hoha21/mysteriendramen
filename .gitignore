@@ -10,3 +10,6 @@
 Thumbs.db
 desktop.ini
 *.tmp
+
+# Fertige, noch nicht veröffentlichte Beiträge
+/entwuerfe/

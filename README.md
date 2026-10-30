@@ -9,7 +9,11 @@ Blog über Rudolf Steiners Mysteriendramen (mysteriendramen.ch, Alexander Höhne
 - Eintrag zuoberst in `blog/index.html` (mit Rubrik in `<span class="tag">`; der
   Rubriken-Filter übernimmt neue Rubriken automatisch).
 - Eintrag zuoberst unter «Neueste Beiträge» in `index.html`, höchstens fünf.
-- `<item>` zuoberst in `feed.xml` und `<url>` in `sitemap.xml`.
+- `sitemap.xml` und `feed.xml` neu erzeugen: `python tools/sitemap_feed.py`
+  (liest Titel, Datum, Rubrik und Anriss aus dem JSON-LD-Block; Seiten mit
+  `noindex` und alles in `entwuerfe/` bleiben aussen vor).
+- Fertige, noch nicht fällige Beiträge liegen in `entwuerfe/` (nicht öffentlich)
+  und werden erst am Erscheinungstag nach `blog/` verschoben.
 - Veröffentlichen: GitHub Desktop, «Commit to main», «Push origin».
 
 ## Rubriken (fester Satz)

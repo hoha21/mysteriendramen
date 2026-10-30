@@ -21,7 +21,7 @@ Beiträge mit eigenen Erfahrungen Alexanders entstehen nur aus seinem Input; nic
 | 04.10.2026 | Figuren | Johannes Thomasius – Porträt einer Entwicklungsfigur | GA 14 | veröffentlicht |
 | 18.10.2026 | Dramaturgie | Kein Lesedrama – wie ich zur Bühne der Mysteriendramen kam | GA 280, 281, 282, 339; Alexanders Angaben | veröffentlicht |
 | 01.11.2026 | Kontexte | Steiner unter Zeitgenossen – Schuré, Maeterlinck, Hofmannsthal | Schuré; Maeterlinck; Hofmannsthal | veröffentlicht |
-| 15.11.2026 | Kontexte | Erlösung als Weg? Die Mysteriendramen und der Messianismus | GA 14; Quellen im Beitrag | veröffentlicht |
+| 15.11.2026 | Kontexte | Erlösung als Weg? Die Mysteriendramen und der Messianismus | GA 14; Quellen im Beitrag | fertig, ausgeblendet bis 15.11. (Entwurf in `entwuerfe/`) |
 | 29.11.2026 | Dramaturgie | Aus der dramaturgischen Werkstatt – wie die Suchbewegung in der konkreten Arbeit aussah: Gespräche mit den Regieführenden, einzelne Szenen. **Angekündigt** in „Kein Lesedrama“ und „Johannes Thomasius“ | **Input von Alexander nötig** (Szenen, Gespräche, Inszenierungen); GA 282 | offen |
 | 13.12.2026 | Figuren | Maria und die Frauengestalten der Dramen (Theodora, Maria, Felicia Balde u. a.). **Angekündigt** am Ende des Messianismus-Beitrags | GA 14 (Personenverzeichnisse, einschlägige Bilder) | offen |
 | 27.12.2026 | Kontexte | Strindberg und das Stationendrama – *Nach Damaskus* als Gegenstück | Strindberg, *Nach Damaskus* (Teile I–III); Bezug zur Untersuchung „Architektur der Einweihung“ | offen |

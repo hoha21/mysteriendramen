@@ -6,15 +6,7 @@
     <description>Forschung, Dramaturgie und Deutungen zu Rudolf Steiners Mysteriendramen</description>
     <language>de-ch</language>
     <atom:link href="https://mysteriendramen.ch/feed.xml" rel="self" type="application/rss+xml"/>
-    <!-- Neuester Beitrag zuoberst; bei jedem neuen Beitrag ein <item> oben einfügen -->
-    <item>
-      <title>Erlösung als Weg? Die Mysteriendramen und der Messianismus</title>
-      <link>https://mysteriendramen.ch/blog/2026-11-15-messianismus.html</link>
-      <guid isPermaLink="true">https://mysteriendramen.ch/blog/2026-11-15-messianismus.html</guid>
-      <pubDate>Sun, 15 Nov 2026 08:00:00 +0100</pubDate>
-      <category>Kontexte</category>
-      <description>Messianische Erwartungen um 1900, Theodoras Schauung und der Konflikt um Krishnamurti: wie die Mysteriendramen die Erlöser-Erwartung ihrer Zeit aufnehmen und verwandeln.</description>
-    </item>
+    <!-- Wird von tools/sitemap_feed.py erzeugt; nicht von Hand bearbeiten -->
     <item>
       <title>Steiner unter Zeitgenossen — Schuré, Maeterlinck, Hofmannsthal</title>
       <link>https://mysteriendramen.ch/blog/2026-11-01-steiner-unter-zeitgenossen.html</link>
