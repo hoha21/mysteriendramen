@@ -27,7 +27,9 @@ ROOT = Path(__file__).resolve().parent.parent
 DOMAIN = (ROOT / "CNAME").read_text(encoding="utf-8").strip()
 BASE = f"https://{DOMAIN}"
 ZONE = ZoneInfo("Europe/Zurich")
-GRUNDSEITEN = ["index.html", "blog/index.html", "gestalten.html", "ueber-mich.html", "impressum.html"]
+GRUNDSEITEN = ["index.html", "blog/index.html", "gestalten.html", "ueber-mich.html", "impressum.html",
+               "en/index.html", "en/four-mystery-dramas.html", "en/characters.html",
+               "en/articles.html", "en/legal-notice.html"]
 
 
 def lies(pfad):

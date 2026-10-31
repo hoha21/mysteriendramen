@@ -14,6 +14,8 @@ Blog über Rudolf Steiners Mysteriendramen (mysteriendramen.ch, Alexander Höhne
   `noindex` und alles in `entwuerfe/` bleiben aussen vor).
 - Fertige, noch nicht fällige Beiträge liegen in `entwuerfe/` (nicht öffentlich)
   und werden erst am Erscheinungstag nach `blog/` verschoben.
+- Englischer Bereich (`en/`): in `tools/en_build.py` (Liste ARTICLES) englischen Titel und
+  Zusammenfassung ergänzen, dann `python tools/en_build.py en` ausführen.
 - Veröffentlichen: GitHub Desktop, «Commit to main», «Push origin».
 
 ## Rubriken (fester Satz)
