@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mysteriendramen.ch/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
   </url>
   <url>
     <loc>https://mysteriendramen.ch/blog/</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
+  </url>
+  <url>
+    <loc>https://mysteriendramen.ch/literatur.html</loc>
+    <lastmod>2026-11-01</lastmod>
   </url>
   <url>
     <loc>https://mysteriendramen.ch/gestalten.html</loc>
@@ -42,34 +46,34 @@
   </url>
   <url>
     <loc>https://mysteriendramen.ch/blog/2026-10-31-zeitgemaesses-mysteriendrama.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
   </url>
   <url>
     <loc>https://mysteriendramen.ch/blog/2026-10-30-messianismus.html</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-01</lastmod>
   </url>
   <url>
     <loc>https://mysteriendramen.ch/blog/2026-11-01-steiner-unter-zeitgenossen.html</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-01</lastmod>
   </url>
   <url>
     <loc>https://mysteriendramen.ch/blog/2026-10-18-kein-lesedrama.html</loc>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-11-01</lastmod>
   </url>
   <url>
     <loc>https://mysteriendramen.ch/blog/2026-10-04-johannes-thomasius.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
   </url>
   <url>
     <loc>https://mysteriendramen.ch/blog/2026-09-20-spiegelmetaphorik.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
   </url>
   <url>
     <loc>https://mysteriendramen.ch/blog/2026-09-06-vier-dramen-ueberblick.html</loc>
-    <lastmod>2026-10-31</lastmod>
+    <lastmod>2026-11-01</lastmod>
   </url>
   <url>
     <loc>https://mysteriendramen.ch/blog/2026-08-23-neustart.html</loc>
-    <lastmod>2026-08-23</lastmod>
+    <lastmod>2026-11-01</lastmod>
   </url>
 </urlset>

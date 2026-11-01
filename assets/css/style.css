@@ -403,3 +403,17 @@ a:focus-visible, button:focus-visible {
 .weiterlesen ul { margin: 0; padding-left: 1.1rem; }
 .weiterlesen li { margin: .3rem 0; }
 .weiterlesen .meta { font-size: .85em; }
+
+/* Quellenliste am Ende eines Beitrags */
+.sources { font-size: 0.92rem; color: var(--ink-soft); padding-left: 1.1rem; }
+.sources li + li { margin-top: 0.35rem; }
+
+/* Hinweis für Deutungen und Arbeitshypothesen im Fliesstext */
+.note {
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  background: var(--bg-raised);
+  border-left: 3px solid var(--accent-2);
+  padding: 0.7rem 1rem;
+}
